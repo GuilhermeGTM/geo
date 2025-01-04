@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeGTM/ProjetoFilmes/blob/main/LICENSE) 
 
 # Sobre o projeto
-Foi usado Geolocalização para bucar comidas/restaurantes de determianda localização, usando o OpenStreetMap que é uma ferramenta gratuita de mapas junto com os dados da API da yelp
+Foi usado Geolocalização para buscar comidas/restaurantes de determianda localização, usando o OpenStreetMap que é uma ferramenta gratuita de mapas junto com os dados da API da yelp
   
 
 ## Layout web
@@ -11,7 +11,7 @@ Foi usado Geolocalização para bucar comidas/restaurantes de determianda locali
 
 # Tecnologias utilizadas
 ## API
-Yelp
+- Yelp
 
 ## Back end
 - Python-3.12.3
