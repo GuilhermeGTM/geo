@@ -26,6 +26,7 @@ Foi usado Geolocalização para buscar comidas/restaurantes de determianda local
 - Bootstrap==v4.1.1
 
 ## DB
+- Foi usado o GeoLite da MaxMind para buscar as cidades/países
 
 ## Implantação em produção
 
